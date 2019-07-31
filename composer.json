@@ -1,0 +1,12 @@
+{
+    "name": "val/twig",
+    "authors": [
+        {
+            "name": "val712",
+            "email": "valerie.burguet@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.11"
+    }
+}
